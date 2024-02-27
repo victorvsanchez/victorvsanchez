@@ -16,7 +16,7 @@
 ### 📫 You can reach me here:
 
 [<img align="left" alt="victorvsanchez | LinkedIn" width="22px" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG16.png" />][linkedin]
-[<img align="left" alt="victorwsanchez | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="victorwsanchez | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" />][instagram]
 
 [instagram]: https://www.instagram.com/victorwsanchez/
 [linkedin]: https://linkedin.com/in/victorvsanchez
