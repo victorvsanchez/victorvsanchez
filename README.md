@@ -1,6 +1,14 @@
 # Hi, I'm Victor 👋
 
-### 🤳 You can find me here:
+### Projects
+- [Customized Q&A Chatbot for company-related questions](https://github.com/victorvsanchez/hvar-streamlit-chatbot)
+- [Marketing Campaign Generator using LLM](https://github.com/victorvsanchez/vibra-mkt-generator-beta)
+
+
+### Certifications
+- [Google Certified - Associated Cloud Engineer](https://google.accredible.com/ebf9aa1e-55b1-4467-9696-b0e703338905)
+
+### 📫 You can reach me here:
 
 [<img align="left" alt="victorvsanchez | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="victorwsanchez | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
