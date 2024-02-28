@@ -7,6 +7,7 @@
 ### 💻 Projects
 - [Customized Q&A Chatbot for company-related questions](https://github.com/victorvsanchez/hvar-streamlit-chatbot)
 - [Marketing Campaign Generator using LLM](https://github.com/victorvsanchez/vibra-mkt-generator-beta)
+- [Classifier of product type according to description](https://github.com/victorvsanchez/ncm-product-type-classifier)
 
 ### 🎓 Certifications
 - [Google Certified - Associated Cloud Engineer](https://google.accredible.com/ebf9aa1e-55b1-4467-9696-b0e703338905)
