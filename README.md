@@ -11,7 +11,8 @@
 - [Email screening Transformer model](https://github.com/victorvsanchez/email-screening-model)
 
 ### 🎓 Certifications
-- [Google Certified - Associated Cloud Engineer](https://google.accredible.com/ebf9aa1e-55b1-4467-9696-b0e703338905)
+- [Google Certified - Associate Cloud Engineer](https://google.accredible.com/ebf9aa1e-55b1-4467-9696-b0e703338905)
+- [AWS Certified Cloud Practitioner](https://cp.certmetrics.com/amazon/en/public/verify/credential/2aaa7b71728349a590bb83113f2c841e)
 
 ### 🧠 Courses
 - [Neural Networks and Deep Learning](https://coursera.org/share/db57bd88679a1176816c48b24756a4a6)
